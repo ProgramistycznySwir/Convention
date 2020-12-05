@@ -1,5 +1,6 @@
-# Convention
-### For C#
+# My Naming Convention
+I save it to have where to look up
+### For C#::
   It's adapted Unity convention.
   
 // Convention note:  
