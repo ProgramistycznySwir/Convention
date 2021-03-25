@@ -1,5 +1,9 @@
 # My Naming Convention
 I save it to have where to look up
+
+### General:
+// No more than **120 characters** per line
+
 ### For C#:
   It's adapted Unity convention.
   
