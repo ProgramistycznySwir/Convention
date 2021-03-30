@@ -12,10 +12,12 @@ I save it to have where to look up
   
  Convention note:  
  <pre>
-<b>__name</b> - pole  
-<b>name_</b> - zmienna tymczasowa  
-<b>name__</b> - zmienna dla Unity (by była widoczna w inspectorze)  
-  
+<b>__name</b> - pole
+<b>name_</b> - zmienna tymczasowa
+<b>name__</b> - zmienna dla Unity (by była widoczna w inspectorze)
+</pre>
+<br />
+<pre>
 <b>propertyName</b> - jeśli jest to jedynie podanie przesłoniętego pola  
 <b>PropertyName</b> - jeśli jest to jakaś formuła, prawie metoda  
 </pre>
