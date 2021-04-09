@@ -4,8 +4,10 @@ I save it to have where to look up
 ### General:
 - No more than **120 characters** per line  
 - Lines in the same paragraph have one indentation more than start of paragraph eg:  
-// Start of paragraph, but space is laking soo we go to another line,  
-//  continuation of paragraph in new line  
+<pre>
+// Start of paragraph, but space is laking soo we go to another line,
+//  continuation of paragraph in new line</pre>
+
 
 ### For C#:
   It's adapted Unity convention.
